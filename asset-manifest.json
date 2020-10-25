@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/react-todo-list/static/css/main.5f361e03.chunk.css",
+    "main.js": "/react-todo-list/static/js/main.ab50cba9.chunk.js",
+    "main.js.map": "/react-todo-list/static/js/main.ab50cba9.chunk.js.map",
+    "runtime-main.js": "/react-todo-list/static/js/runtime-main.f23babde.js",
+    "runtime-main.js.map": "/react-todo-list/static/js/runtime-main.f23babde.js.map",
+    "static/css/2.56f1b79d.chunk.css": "/react-todo-list/static/css/2.56f1b79d.chunk.css",
+    "static/js/2.71f42066.chunk.js": "/react-todo-list/static/js/2.71f42066.chunk.js",
+    "static/js/2.71f42066.chunk.js.map": "/react-todo-list/static/js/2.71f42066.chunk.js.map",
+    "index.html": "/react-todo-list/index.html",
+    "precache-manifest.ddc00a4ad0067bd3c0dbb41c90e90041.js": "/react-todo-list/precache-manifest.ddc00a4ad0067bd3c0dbb41c90e90041.js",
+    "service-worker.js": "/react-todo-list/service-worker.js",
+    "static/css/2.56f1b79d.chunk.css.map": "/react-todo-list/static/css/2.56f1b79d.chunk.css.map",
+    "static/css/main.5f361e03.chunk.css.map": "/react-todo-list/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.71f42066.chunk.js.LICENSE.txt": "/react-todo-list/static/js/2.71f42066.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/react-todo-list/static/media/roboto-vietnamese-400-normal.a8be5b46.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f23babde.js",
+    "static/css/2.56f1b79d.chunk.css",
+    "static/js/2.71f42066.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.ab50cba9.chunk.js"
+  ]
+}
